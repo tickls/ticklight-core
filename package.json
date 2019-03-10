@@ -1,0 +1,25 @@
+{
+  "name": "ticklight-core",
+  "version": "0.1.0",
+  "description": "The ticklight core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tickls/ticklight-core.git"
+  },
+  "keywords": [
+    "ticklight",
+    "core",
+    "home",
+    "automation"
+  ],
+  "author": "tickls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tickls/ticklight-core/issues"
+  },
+  "homepage": "https://github.com/tickls/ticklight-core#readme"
+}
