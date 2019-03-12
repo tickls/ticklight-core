@@ -6,6 +6,7 @@ const Error = require('./lib/error');
 const Plugin = require('./lib/plugin');
 const Service = require('./lib/service');
 const SystemService = require('./lib/system_service');
+const uid = require('./lib/util/uid_gen');
 
 module.exports = {
     Device,
@@ -13,5 +14,6 @@ module.exports = {
     Error,
     Plugin,
     Service,
-    SystemService
+    SystemService,
+    uid
 }
